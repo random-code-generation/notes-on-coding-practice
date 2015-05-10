@@ -12,9 +12,10 @@ Content related to coding practice.
 
 [The "Writing Idiomatic Python" Video Series](https://www.youtube.com/channel/UC8jQsBz_w948kSc7ehMRGmQ) by Jeff Knupp
 
-* [03:04](http://www.youtube.com/watch?v=OSGv2VnC0go&t=03m04s) -- Looping over a range of functions
-* [03:04](http://www.youtube.com/watch?v=OSGv2VnC0go&t=03m04s) -- Looping over a range of functions
-* [03:04](http://www.youtube.com/watch?v=OSGv2VnC0go&t=03m04s) -- Looping over a range of functions
+* [Writing Idiomatic Python Video One](https://www.youtube.com/watch?v=g0gNWGg2JxM)
+* [Writing Idiomatic Python Video Two](https://www.youtube.com/watch?v=wym71aDDMyo)
+* [Writing Idiomatic Python Video Three](https://www.youtube.com/watch?v=0A_udRSen2w)
+* More to come... (He promised at least five.)
 
 [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) by Jeff Knupp (Python core developer) \[[slides](https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1)\]
 
