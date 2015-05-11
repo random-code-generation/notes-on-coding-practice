@@ -1,6 +1,6 @@
 # Overview
 
-Content related to coding practice.
+Content related to coding practice with a focus on Python.
 
 ## Python Lore
 
@@ -50,3 +50,66 @@ Content related to coding practice.
 * [43:10](http://www.youtube.com/watch?v=OSGv2VnC0go&t=43m10s) -- Factor-out temporary contexts
 * [44:56](http://www.youtube.com/watch?v=OSGv2VnC0go&t=44m56s) -- Context manager: redirect_stdout()
 * [46:04](http://www.youtube.com/watch?v=OSGv2VnC0go&t=46m04s) -- Concise expressive one-liners
+
+[Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015](https://www.youtube.com/watch?v=wf-BqAjZb8M) by Raymond Hettinger
+
+
+## Testing
+
+[pytest - rapid and simple testing with Python](https://www.youtube.com/watch?v=9LVqBQcFmyw) in PyCon 2012
+
+[pytest - rapid and simple testing with Python](https://www.youtube.com/watch?v=k6Z2JHUmZXM) in EuroPython 2013
+
+[Improving automated testing with py.test](https://www.youtube.com/watch?v=AiThU6JQbE8) in PyCon 2014
+
+[Introduction to pytest](https://www.youtube.com/watch?v=LdVJj65ikRY) in EuroPython 2014
+
+[Introduction to py.test fixtures](https://www.youtube.com/watch?v=bJhRW4eZMco) in Python-FOSDEM 2014
+
+[Advanced Uses of py.test Fixtures](https://www.youtube.com/watch?v=IBC_dxr-4ps) in EuroPython 2014
+
+[Why I use py.test and maybe you should too](https://www.youtube.com/watch?v=P-AhpukDIik) in PyCon Australia 2013
+
+[Funcargs and other fun with pytest](https://www.youtube.com/watch?v=DTNejE9EraI) in PyCon Australia 2012
+
+
+## Infrastructure as Code
+
+[Getting Started with Puppet - PuppetConf 2013](https://www.youtube.com/watch?v=TdAmAj3eaFI)
+
+[Stop Hiring Devops Experts (And Start Growing Them) - PuppetConf 2013 Keynote](https://www.youtube.com/watch?v=2-cSMtSSssY)
+
+[Getting Started with Puppet - Chad Metcalf](https://www.youtube.com/watch?v=53Bb0o4u_fs)
+
+[Intro to puppet ( slides + install screencast ) on Amazon EC2](https://www.youtube.com/watch?v=Hiu_ui2nZa0)
+
+[Continuous delivery of Puppet based infrastructure - Puppet Camp New York City 2014](https://www.youtube.com/watch?v=hCOIi4Sk6w4)
+
+[Continuous Delivery of Puppet-Based Infrastructure - Sam Kottler, Digital Ocean Puppet (Vimeo repost)](https://www.youtube.com/watch?v=FPpYQRTU1Xw) in Puppet Camp New York City 2014
+
+[PuPHPet and Digital Ocean](https://www.youtube.com/watch?v=dHkTxWffGGA) (for PHP but something to learn from...)
+
+[Linux Puppet](https://www.youtube.com/watch?v=k51SY_o9hMo&list=PLle7Qm2p4Y75X7Q5XX_t6nID8wgw-FWoP) (Playlist)
+
+[Automatic Configuration of Your Cloud with Puppet](https://www.youtube.com/watch?v=eT2TtqvqSSg)
+
+Getting Started ([PuppetConf 2013](https://puppetlabs.com/resources/puppetconf-2013))
+
+* [Getting Started with Puppet - Michael Stahnke, Puppet Labs](https://www.youtube.com/watch?v=TdAmAj3eaFI)
+* [What's New and Awesome in Puppet Enterprise 3 - Eric Sorenson, Puppet Labs](https://www.youtube.com/watch?v=wW9QZfgULXM)
+* [Managing Windows with Puppet - James Sweeny, Puppet Labs](https://www.youtube.com/watch?v=GI_xv0vIR8M)
+* [Forging Great Modules: Standards, Tools and Patterns - Ryan Coleman, Puppet Labs](https://www.youtube.com/watch?v=LPMGR6auqig)
+* [Intro to Puppet Enterprise 3.0: Orchestration Engine - Nick Fagerlund, Puppet Labs](https://www.youtube.com/watch?v=6ya0fQC5JzE)
+* [PuppetDB: New Adventures in Higher-Order Automation - Deepak Giridharagopal, Puppet Labs](https://www.youtube.com/watch?v=iGVoqCb9CkA)
+
+[What Is This Continuous Delivery Thing Anyway? - PuppetConf 2013](https://www.youtube.com/watch?v=C3BUZTxL7Xc)
+
+# Misc Stuff
+
+## Flask
+
+[Flask Workshop - PyCon 2015](https://www.youtube.com/watch?v=DIcpEg77gdE) by Miguel Grinberg \[[slides](https://speakerdeck.com/miguelgrinberg/flask-workshop)\]
+
+## System Administration
+
+[Bash Introduction](https://speakerdeck.com/62gerente/bash-introduction)
