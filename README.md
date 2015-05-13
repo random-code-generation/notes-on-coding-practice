@@ -110,6 +110,12 @@ Getting Started ([PuppetConf 2013](https://puppetlabs.com/resources/puppetconf-2
 
 [Flask Workshop - PyCon 2015](https://www.youtube.com/watch?v=DIcpEg77gdE) by Miguel Grinberg \[[slides](https://speakerdeck.com/miguelgrinberg/flask-workshop)\]
 
+## AngularJS
+
+[Introduction to Angular.js in 50 Examples (part 1)](https://www.youtube.com/watch?v=TRrL5j3MIvo)
+
+[Introduction to Angular.js in 50 Examples (part 2)](https://www.youtube.com/watch?v=6J08m1H2BME)
+
 ## System Administration
 
 [Bash Introduction](https://speakerdeck.com/62gerente/bash-introduction)
