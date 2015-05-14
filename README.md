@@ -17,7 +17,7 @@ Content related to coding practice with a focus on Python.
 * [Writing Idiomatic Python Video Three](https://www.youtube.com/watch?v=0A_udRSen2w)
 * More to come... (He promised at least five.)
 
-[Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) by Jeff Knupp (Python core developer) \[[slides](https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1)\]
+[Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) by Raymond Hettinger (Python core developer) \[[slides](https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1)\]
 
 * [03:04](http://www.youtube.com/watch?v=OSGv2VnC0go&t=03m04s) -- Looping over a range of functions
 * [04:47](http://www.youtube.com/watch?v=OSGv2VnC0go&t=04m47s) -- Looping over a collection
@@ -52,6 +52,11 @@ Content related to coding practice with a focus on Python.
 * [46:04](http://www.youtube.com/watch?v=OSGv2VnC0go&t=46m04s) -- Concise expressive one-liners
 
 [Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015](https://www.youtube.com/watch?v=wf-BqAjZb8M) by Raymond Hettinger
+
+
+## git
+
+[A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 
 
 ## Testing
