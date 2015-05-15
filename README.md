@@ -6,7 +6,7 @@ Content related to coding practice with a focus on Python.
 
 [PEP8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 
-[PEP20 -- The Zen of Python](https://www.python.org/dev/peps/pep-0020/) a.k.a. `import this`
+[PEP20 -- The Zen of Python](https://www.python.org/dev/peps/pep-0020/) (a.k.a. `import this`)
 
 ## Videos: Idiomatic Python
 
